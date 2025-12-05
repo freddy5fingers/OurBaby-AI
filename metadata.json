@@ -1,0 +1,7 @@
+{
+  "name": "OurBaby AI",
+  "description": "Predict what your future baby will look like based on parent photos using OurBaby AI powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
